@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nathan</h1>
 <h3 align="center">A passionate Full Stack Software Developer with a strong background in Javascript Stack</h3>
 
-- 🌱 I’m currently learning **GoLang**
+- 🌱 I’m currently learning **GoLang** and studing for **LPIC-1 (Linux Professional Institute Certification Programs)**
 
 - 📫 How to reach me **nathan.v.marcelino@gmail.com**
 
