@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently studing for [LPIC-1 (Linux Professional Institute Certification Programs)](https://www.lpi.org/pt-br/our-certifications/lpic-1-overview/)
 
-- 📫 How to reach me **nathan.v.marcelino@gmail.com**
+- 📫 How to reach me **nathan.v.marcelino@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
