@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=390, initial-scale=1" />
+  <title>hero · mobile</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body {
+      background: #0d1117;
+      color: #ffe2a8;
+      font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, monospace;
+    }
+    .topbar { display: flex; justify-content: flex-end; margin-bottom: 12px; }
+    .badge {
+      display: inline-block;
+      font-size: 11px;
+      letter-spacing: 0.6px;
+      color: #ffb000;
+      border: 1px solid #ffb00055;
+      background: #120d05;
+      padding: 4px 10px;
+      border-radius: 4px;
+    }
+    .desc { min-width: 0; }
+    .panel, .skills {
+      background: #120d05;
+      border: 1px solid #3d2c12;
+      border-radius: 6px;
+      padding: 12px 14px 14px;
+      max-width: 100%;
+      overflow-x: auto;
+    }
+    .panel pre {
+      margin: 0;
+      font-size: 11.5px;
+      line-height: 1.5;
+      color: #ffc24d;
+      white-space: pre;
+      font-family: inherit;
+    }
+    .bio {
+      margin: 12px 0;
+      font-size: 12.5px;
+      line-height: 1.55;
+      color: #f5deb3;
+    }
+    body { padding: 14px 14px 40px; width: 390px; }
+    .badge { font-size: 12px; }
+    .wrap { display: flex; flex-direction: column; align-items: center; gap: 16px; width: 100%; }
+    .desc { width: 100%; }
+    .panel pre { font-size: 11px; }
+    .bio { overflow-wrap: anywhere; word-break: break-word; }
+    .skill-title { color: #ffb000; font-size: 12px; margin-bottom: 10px; letter-spacing: 0.5px; }
+    .skill-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 6px 10px;
+      padding: 6px 0;
+      border-bottom: 1px solid #3d2c1266;
+      font-size: 11.5px;
+    }
+    .skill-row .k { flex: 0 0 auto; color: #ffb000; min-width: 6rem; }
+    .skill-row .k::before { content: "▸ "; opacity: 0.7; }
+    .skill-row .v { flex: 1 1 10rem; color: #ffcf70; overflow-wrap: anywhere; }
+    .skill-ok { margin-top: 10px; font-size: 11px; color: #ffc24d; text-align: right; }
+  </style>
+</head>
+<body>
+  <div class="topbar"><span class="badge">📱 view :: mobile</span></div>
+  <div class="wrap">
+    <div class="desc">
+      <div class="panel"><pre>&gt; // BOOT — identity.sys
+&gt; ──────────────────────────
+&gt; ▸ user   :: nathan v. marcelino
+&gt; ▸ role   :: Senior Software Engineer
+&gt; ▸ focus  :: Distributed AI · RAG · MCP
+&gt; ▸ uptime :: 6+ yrs in production
+&gt; ▸ loc    :: Santa Catarina, Brazil
+&gt; ──────────────────────────
+&gt; // status :: SHIPPING</pre></div>
+      <p class="bio">Senior Software Engineer with 6+ years building distributed systems, AI platforms and enterprise integrations. I design multi-service architectures, write backends in Node.js/TypeScript and Python, build frontends with React and Next.js, and wire LLMs into real products: RAG pipelines, streaming between services, agents and MCP servers. Focused on reliability, developer experience, and shipping things that actually work.</p>
+      <div class="skills">
+        <div class="skill-title">┌─ SKILL_MATRIX</div>
+        <div class="skill-row"><span class="k">langs</span><span class="v">typescript · javascript · python · go · sql</span></div>
+        <div class="skill-row"><span class="k">frontend</span><span class="v">react · next.js · vite · tailwind · tanstack</span></div>
+        <div class="skill-row"><span class="k">backend</span><span class="v">node · express · nestjs · fastapi</span></div>
+        <div class="skill-row"><span class="k">ai·agents</span><span class="v">langchain · langgraph · rag · mcp · bedrock</span></div>
+        <div class="skill-row"><span class="k">data</span><span class="v">postgres · redis · chroma · prisma · drizzle</span></div>
+        <div class="skill-row"><span class="k">cloud·ops</span><span class="v">aws · docker · k8s · otel · grafana</span></div>
+        <div class="skill-ok">status: OK ─┘</div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

@@ -1,69 +1,83 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-<h3 align="center">A Software Developer with a strong background in Javascript/Typescript Stack</h3>
+<!--
+  profile :: nathan-vm
+  theme   :: terminal / amber CRT · dark-mode first
+  layout  :: HTML heroes → PNG · <picture> desktop ↔ mobile
+-->
 
-- 🔭 I’m currently studing for [LPIC-1 (Linux Professional Institute Certification Programs)](https://www.lpi.org/pt-br/our-certifications/lpic-1-overview/)
-
-- 📫 How to reach me **nathan.v.marcelino@icloud.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/nathan-vm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan-vm" height="30"   width="40" /></a>
+<!-- Viewport-aware hero: side-by-side on desktop, stacked on mobile -->
+<p align="center">
+  <picture>
+    <source media="(max-width: 768px)" srcset="./hero-mobile.png" />
+    <img src="./hero-desktop.png" alt="Nathan Vieira Marcelino — identity, bio and skills (responsive)" width="100%" />
+  </picture>
 </p>
 
-<div style="display:flex;">  
-
-
-<h3 align="left">Languages:</h3>
-
-<p align="left">
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>&nbsp;
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>&nbsp;
-  <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>&nbsp;
-</p>  
-
-<h3 align="left">Frameworks and libs:</h3>
-
-<p align="left">
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>&nbsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>&nbsp;
-  <a href="https://github.com/puppeteer/puppeteer" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pptrdev/pptrdev-official.svg" alt="puppeteer" width="40" height="40"/> </a>&nbsp;
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>&nbsp;
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>&nbsp;
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a>&nbsp;
-  <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>&nbsp;
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>&nbsp;
-  
-
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/> </a>&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a>&nbsp;
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>&nbsp;
-  <a href="https://docs.pytest.org/en/8.2.x/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytest/pytest-plain.svg" alt="pytest" width="40" height="40"/> </a>&nbsp;
-</p>
-</div>
-
-<h3 align="left">Databases:</h3>
-<p align="left">
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>&nbsp;
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a>&nbsp;
+<p>
+  <a href="https://www.linkedin.com/in/nathan-vm"><img src="https://img.shields.io/badge/%2F%2F_linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=ffb000&labelColor=120d05" alt="linkedin" /></a>
+  <a href="https://github.com/nathan-vm"><img src="https://img.shields.io/badge/%2F%2F_github-181717?style=for-the-badge&logo=github&logoColor=ffb000&labelColor=120d05" alt="github" /></a>
+  <a href="mailto:nathan.v.marcelino@gmail.com"><img src="https://img.shields.io/badge/%2F%2F_email-EA4335?style=for-the-badge&logo=gmail&logoColor=ffb000&labelColor=120d05" alt="email" /></a>
 </p>
 
-<h3 align="left">DevOps:</h3>
-<p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>&nbsp;
-  <a href="https://developer.apple.com/macos/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apple/apple-original.svg" alt="macos" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>&nbsp;
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>&nbsp;
-  <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>&nbsp;
-  <a href="https://circleci.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/circleci/circleci-plain.svg" alt="circleci" width="40" height="40"/> </a>&nbsp;
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>&nbsp;
+<p>
+<img src="https://img.shields.io/badge/typescript-ffb000?style=flat-square&logo=typescript&logoColor=ffb000&labelColor=120d05" alt="typescript" />
+<img src="https://img.shields.io/badge/python-ffc24d?style=flat-square&logo=python&logoColor=ffb000&labelColor=120d05" alt="python" />
+<img src="https://img.shields.io/badge/go-ff9500?style=flat-square&logo=go&logoColor=ffb000&labelColor=120d05" alt="go" />
+<img src="https://img.shields.io/badge/node.js-ffb000?style=flat-square&logo=nodedotjs&logoColor=ffb000&labelColor=120d05" alt="node.js" />
+<img src="https://img.shields.io/badge/react-ffc24d?style=flat-square&logo=react&logoColor=ffb000&labelColor=120d05" alt="react" />
+<img src="https://img.shields.io/badge/langgraph-ff7a1a?style=flat-square&labelColor=120d05" alt="langgraph" />
+<img src="https://img.shields.io/badge/RAG-ff7a1a?style=flat-square&labelColor=120d05" alt="rag" />
+<img src="https://img.shields.io/badge/MCP-ff7a1a?style=flat-square&labelColor=120d05" alt="mcp" />
+<img src="https://img.shields.io/badge/postgres-ffb000?style=flat-square&logo=postgresql&logoColor=ffb000&labelColor=120d05" alt="postgres" />
+<img src="https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat-square&logo=amazon-aws&logoColor=ffb000&labelColor=120d05" alt="bedrock" />
+<img src="https://img.shields.io/badge/docker-ffc24d?style=flat-square&logo=docker&logoColor=ffb000&labelColor=120d05" alt="docker" />
+<img src="https://img.shields.io/badge/kubernetes-ff9500?style=flat-square&logo=kubernetes&logoColor=ffb000&labelColor=120d05" alt="kubernetes" />
 </p>
 
+---
+
+### `// featured_projects`
+
+| # | Project | Description | Stack |
+|:--|:--------|:------------|:------|
+| `01` | [**claude-observability**](https://github.com/nathan-vm/claude-observability) | Self-hosted usage dashboards for Claude Code: rate-limit burn by model, skill, MCP server and tool. | `Go` · `OpenTelemetry` · `Grafana` |
+| `02` | [**obsidian-mcp**](https://github.com/nathan-vm/obsidian-mcp) | MCP server with hybrid semantic + BM25 search over an Obsidian vault, indexed locally. | `Python` · `fastembed` · `Docker` |
+| `03` | [**subforge-mcp**](https://github.com/nathan-vm/subforge-mcp) | MCP server that lets AI clients list, chat with and load local models in LM Studio. | `TypeScript` · `MCP` · `LM Studio` |
+| `04` | [**agent-setup**](https://github.com/nathan-vm/agent-setup) | Interactive wizard to bootstrap a Claude Code setup: skills, MCP servers, observability. | `Node.js` · `Claude Code` · `OTel` |
+
+```text
+// PRIVATE LAYER :: Enterprise AI Assistant (RAG · GraphRAG · voice) · Ingestion & Training Workers · Multi-tenant LMS · Team-growth SaaS
+```
+
+---
+
+### `// now`
+
+```diff
+! // NOW
+! ▸ building  :: RAG platforms · agent workflows · MCP servers · multi-tenant SaaS
+! ▸ stack     :: typescript · python · go · langgraph · postgres · aws · k8s
+! ▸ exploring :: agentic dev workflows · LLM observability
+! ▸ open_to   :: collaborations · hard distributed / AI problems
+```
+
+---
+
+### `// connect`
+
+```text
+linkedin :: https://www.linkedin.com/in/nathan-vm
+github   :: https://github.com/nathan-vm
+email    :: nathan.v.marcelino@gmail.com
+```
+
+<p>
+  <a href="https://www.linkedin.com/in/nathan-vm"><img src="https://img.shields.io/badge/connect-linkedin-0A66C2?style=flat-square&logo=linkedin&logoColor=ffb000&labelColor=120d05" alt="linkedin" /></a>
+  <a href="https://github.com/nathan-vm"><img src="https://img.shields.io/badge/connect-github-181717?style=flat-square&logo=github&logoColor=ffb000&labelColor=120d05" alt="github" /></a>
+  <a href="mailto:nathan.v.marcelino@gmail.com"><img src="https://img.shields.io/badge/connect-email-EA4335?style=flat-square&logo=gmail&logoColor=ffb000&labelColor=120d05" alt="email" /></a>
+</p>
+
+---
+
+<p align="center">
+  <code>eof :: profile.readme — responsive · dark mode preferred</code>
+</p>
